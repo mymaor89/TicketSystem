@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367862895570",
+    "firebase_url": "https://ticketsystemz.firebaseio.com",
+    "project_id": "ticketsystemz",
+    "storage_bucket": "ticketsystemz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367862895570:android:3ea82792433a1de4e42e0b",
+        "android_client_info": {
+          "package_name": "org.sunspark.ticket.ticketsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367862895570-5jsbqmutiebdr6fkpiueonrs8eov75tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZkHtzk5eTkvMQxAHKUjj_LdXHsV4qxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367862895570-5jsbqmutiebdr6fkpiueonrs8eov75tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
