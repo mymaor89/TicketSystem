@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214934648634",
+    "firebase_url": "https://sunsparkfinishproject.firebaseio.com",
+    "project_id": "sunsparkfinishproject",
+    "storage_bucket": "sunsparkfinishproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214934648634:android:b1be7903ae15a8e80cc203",
+        "android_client_info": {
+          "package_name": "org.sunspark.ticket.ticketsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214934648634-e56b6o331ae50q726j52hf5k7214o0bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sunspark.ticket.ticketsystem",
+            "certificate_hash": "ae8050a9f2bbca842cf569a8f84e1079753a8b7e"
+          }
+        },
+        {
+          "client_id": "214934648634-lol2lvqvtnru277blr9015bn4lja580c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3gcbuc_Hlvc9VRgsKjRYPdgUDE7hyJLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214934648634-lol2lvqvtnru277blr9015bn4lja580c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
