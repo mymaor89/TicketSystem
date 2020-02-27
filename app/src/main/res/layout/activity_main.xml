@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:scaleType="centerInside"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/signin"
+        app:srcCompat="@drawable/login"
         android:layout_marginTop="87dp"
         android:id="@+id/imageButton"
         android:layout_alignParentStart="true" />
@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:scaleType="centerInside"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/signinfacebook"
+        app:srcCompat="@drawable/login_facebook"
         android:layout_below="@+id/imageButton"
         android:layout_centerHorizontal="true"
         android:id="@+id/imageButton2" />
@@ -33,14 +33,14 @@
         android:layout_width="match_parent"
         android:scaleType="centerInside"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/signinemail"
+        app:srcCompat="@drawable/login_gmail"
         android:id="@+id/imageButton3"
         android:layout_below="@+id/imageButton2"
         android:layout_alignParentStart="true" />
 
     <TextView
         android:text="Sign in"
-        android:textColor="black"
+        android:textColor="@android:color/black"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="40dp"
